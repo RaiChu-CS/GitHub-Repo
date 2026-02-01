@@ -12,6 +12,6 @@ public class HelloWorld {
         System.out.println("Sum: " + sum);
        
         // Note: Made code more simple and updated user.name and user.email configs
-        //Pushing changes to remote repository 1/31/2026
+        // Pushing changes to remote repository 1/31/2026
     } 
 }
